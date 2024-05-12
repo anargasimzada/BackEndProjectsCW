@@ -3,32 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\BackEnd\\MultiShopCW\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6CF87706-F8DC-49E3-886B-342BAD3BFD6B}|MultiShop\\MultiShop.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\codeacademy tasks\\backend\\multishopcw\\multishop\\dataaccesslayer\\multicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CF87706-F8DC-49E3-886B-342BAD3BFD6B}|MultiShop\\MultiShop.csproj|solutionrelative:multishop\\dataaccesslayer\\multicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6CF87706-F8DC-49E3-886B-342BAD3BFD6B}|MultiShop\\MultiShop.csproj|C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\BackEnd\\MultiShopCW\\multishop\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6CF87706-F8DC-49E3-886B-342BAD3BFD6B}|MultiShop\\MultiShop.csproj|solutionrelative:multishop\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CF87706-F8DC-49E3-886B-342BAD3BFD6B}|MultiShop\\MultiShop.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\codeacademy tasks\\backend\\multishopcw\\multishop\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6CF87706-F8DC-49E3-886B-342BAD3BFD6B}|MultiShop\\MultiShop.csproj|solutionrelative:multishop\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6CF87706-F8DC-49E3-886B-342BAD3BFD6B}|MultiShop\\MultiShop.csproj|C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\BackEnd\\MultiShopCW\\multishop\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CF87706-F8DC-49E3-886B-342BAD3BFD6B}|MultiShop\\MultiShop.csproj|solutionrelative:multishop\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CF87706-F8DC-49E3-886B-342BAD3BFD6B}|MultiShop\\MultiShop.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\codeacademy tasks\\backend\\multishopcw\\multishop\\areas\\admin\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6CF87706-F8DC-49E3-886B-342BAD3BFD6B}|MultiShop\\MultiShop.csproj|solutionrelative:multishop\\areas\\admin\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CF87706-F8DC-49E3-886B-342BAD3BFD6B}|MultiShop\\MultiShop.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\codeacademy tasks\\backend\\multishopcw\\multishop\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6CF87706-F8DC-49E3-886B-342BAD3BFD6B}|MultiShop\\MultiShop.csproj|solutionrelative:multishop\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CF87706-F8DC-49E3-886B-342BAD3BFD6B}|MultiShop\\MultiShop.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\codeacademy tasks\\backend\\multishopcw\\multishop\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6CF87706-F8DC-49E3-886B-342BAD3BFD6B}|MultiShop\\MultiShop.csproj|solutionrelative:multishop\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CF87706-F8DC-49E3-886B-342BAD3BFD6B}|MultiShop\\MultiShop.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\codeacademy tasks\\backend\\multishopcw\\multishop\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6CF87706-F8DC-49E3-886B-342BAD3BFD6B}|MultiShop\\MultiShop.csproj|C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\BackEnd\\MultiShopCW\\multishop\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6CF87706-F8DC-49E3-886B-342BAD3BFD6B}|MultiShop\\MultiShop.csproj|solutionrelative:multishop\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CF87706-F8DC-49E3-886B-342BAD3BFD6B}|MultiShop\\MultiShop.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\codeacademy tasks\\backend\\multishopcw\\multishop\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CF87706-F8DC-49E3-886B-342BAD3BFD6B}|MultiShop\\MultiShop.csproj|solutionrelative:multishop\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6CF87706-F8DC-49E3-886B-342BAD3BFD6B}|MultiShop\\MultiShop.csproj|C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\BackEnd\\MultiShopCW\\multishop\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CF87706-F8DC-49E3-886B-342BAD3BFD6B}|MultiShop\\MultiShop.csproj|solutionrelative:multishop\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF87706-F8DC-49E3-886B-342BAD3BFD6B}|MultiShop\\MultiShop.csproj|C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\BackEnd\\MultiShopCW\\multishop\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CF87706-F8DC-49E3-886B-342BAD3BFD6B}|MultiShop\\MultiShop.csproj|solutionrelative:multishop\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF87706-F8DC-49E3-886B-342BAD3BFD6B}|MultiShop\\MultiShop.csproj|C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\BackEnd\\MultiShopCW\\multishop\\areas\\admin\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CF87706-F8DC-49E3-886B-342BAD3BFD6B}|MultiShop\\MultiShop.csproj|solutionrelative:multishop\\areas\\admin\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF87706-F8DC-49E3-886B-342BAD3BFD6B}|MultiShop\\MultiShop.csproj|C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\BackEnd\\MultiShopCW\\multishop\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CF87706-F8DC-49E3-886B-342BAD3BFD6B}|MultiShop\\MultiShop.csproj|solutionrelative:multishop\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF87706-F8DC-49E3-886B-342BAD3BFD6B}|MultiShop\\MultiShop.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\codeacademy tasks\\backend\\multishopcw\\multishop\\dataaccesslayer\\multicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CF87706-F8DC-49E3-886B-342BAD3BFD6B}|MultiShop\\MultiShop.csproj|solutionrelative:multishop\\dataaccesslayer\\multicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6CF87706-F8DC-49E3-886B-342BAD3BFD6B}|MultiShop\\MultiShop.csproj|C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\BackEnd\\MultiShopCW\\multishop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -39,11 +43,7 @@
       "RelativeMoniker": "D:0:0:{6CF87706-F8DC-49E3-886B-342BAD3BFD6B}|MultiShop\\MultiShop.csproj|solutionrelative:multishop\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CF87706-F8DC-49E3-886B-342BAD3BFD6B}|MultiShop\\MultiShop.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\codeacademy tasks\\backend\\multishopcw\\multishop\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{6CF87706-F8DC-49E3-886B-342BAD3BFD6B}|MultiShop\\MultiShop.csproj|solutionrelative:multishop\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CF87706-F8DC-49E3-886B-342BAD3BFD6B}|MultiShop\\MultiShop.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\codeacademy tasks\\backend\\multishopcw\\multishop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6CF87706-F8DC-49E3-886B-342BAD3BFD6B}|MultiShop\\MultiShop.csproj|C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\BackEnd\\MultiShopCW\\multishop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6CF87706-F8DC-49E3-886B-342BAD3BFD6B}|MultiShop\\MultiShop.csproj|solutionrelative:multishop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -82,11 +82,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "MultiContext.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\BackEnd\\MultiShopCW\\MultiShop\\DataAccessLayer\\MultiContext.cs",
               "RelativeDocumentMoniker": "MultiShop\\DataAccessLayer\\MultiContext.cs",
@@ -99,7 +99,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\BackEnd\\MultiShopCW\\MultiShop\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "MultiShop\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
@@ -112,7 +112,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\BackEnd\\MultiShopCW\\MultiShop\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
               "RelativeDocumentMoniker": "MultiShop\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
@@ -125,20 +125,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\BackEnd\\MultiShopCW\\MultiShop\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
               "RelativeDocumentMoniker": "MultiShop\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
               "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\BackEnd\\MultiShopCW\\MultiShop\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
               "RelativeToolTip": "MultiShop\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAHAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAYwCYAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-09T23:22:37.821Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\BackEnd\\MultiShopCW\\MultiShop\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "MultiShop\\Areas\\Admin\\Views\\_ViewStart.cshtml",
@@ -151,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\BackEnd\\MultiShopCW\\MultiShop\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "MultiShop\\Areas\\Admin\\Views\\_ViewImports.cshtml",
@@ -164,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "SliderController.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\BackEnd\\MultiShopCW\\MultiShop\\Areas\\Admin\\Controllers\\SliderController.cs",
               "RelativeDocumentMoniker": "MultiShop\\Areas\\Admin\\Controllers\\SliderController.cs",
@@ -177,7 +177,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "ScaffoldingReadMe.txt",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\BackEnd\\MultiShopCW\\MultiShop\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "MultiShop\\ScaffoldingReadMe.txt",
@@ -190,7 +190,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Contact.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\BackEnd\\MultiShopCW\\MultiShop\\Views\\Home\\Contact.cshtml",
               "RelativeDocumentMoniker": "MultiShop\\Views\\Home\\Contact.cshtml",
@@ -198,12 +198,11 @@
               "RelativeToolTip": "MultiShop\\Views\\Home\\Contact.cshtml",
               "ViewState": "AQIAACoAAAAAAAAAAAAAAAMAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-07T08:22:09.894Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-07T08:22:09.894Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\BackEnd\\MultiShopCW\\MultiShop\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "MultiShop\\Views\\Home\\Index.cshtml",
@@ -211,8 +210,7 @@
               "RelativeToolTip": "MultiShop\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-07T07:57:57.97Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-07T07:57:57.97Z"
             },
             {
               "$type": "Document",
@@ -224,8 +222,7 @@
               "RelativeToolTip": "MultiShop\\Views\\Product\\Detail.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABTAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-07T08:41:21.148Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-07T08:41:21.148Z"
             },
             {
               "$type": "Document",
@@ -237,8 +234,7 @@
               "RelativeToolTip": "MultiShop\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T07:45:58.617Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-07T07:45:58.617Z"
             },
             {
               "$type": "Document",
@@ -250,8 +246,7 @@
               "RelativeToolTip": "MultiShop\\Views\\Product\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAMQAAABLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-07T08:43:27.898Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-07T08:43:27.898Z"
             },
             {
               "$type": "Document",
@@ -263,8 +258,7 @@
               "RelativeToolTip": "MultiShop\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-09T10:24:46.187Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-09T10:24:46.187Z"
             },
             {
               "$type": "Document",
@@ -276,8 +270,7 @@
               "RelativeToolTip": "MultiShop\\Controllers\\ProductController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T08:27:24.447Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-07T08:27:24.447Z"
             },
             {
               "$type": "Document",
@@ -289,8 +282,7 @@
               "RelativeToolTip": "MultiShop\\Views\\_ViewStart.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-07T08:20:54.652Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-07T08:20:54.652Z"
             },
             {
               "$type": "Document",
@@ -302,8 +294,7 @@
               "RelativeToolTip": "MultiShop\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T07:49:24.436Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-07T07:49:24.436Z"
             },
             {
               "$type": "Document",
@@ -315,8 +306,7 @@
               "RelativeToolTip": "MultiShop\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAACMAAAAAAAAAAAAmwBUAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-07T07:47:41.356Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-07T07:47:41.356Z"
             }
           ]
         }
