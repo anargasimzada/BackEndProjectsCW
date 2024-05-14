@@ -669,3 +669,4 @@ C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\BackEnd\MultiShopCW\MultiS
 C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\BackEnd\MultiShopCW\MultiShop\obj\Debug\net8.0\MultiShop.pdb
 C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\BackEnd\MultiShopCW\MultiShop\obj\Debug\net8.0\MultiShop.genruntimeconfig.cache
 C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\BackEnd\MultiShopCW\MultiShop\obj\Debug\net8.0\ref\MultiShop.dll
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\BackEnd\MultiShopCW\MultiShop\obj\Debug\net8.0\MultiShop.sourcelink.json
